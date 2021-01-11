@@ -7,7 +7,12 @@ My name is Affan Chowdhury, I am from Dallas, TX and I am actively on a job sear
 
 Skills: JAVA / REACT / JS / HTML / CSS / JAVASCIRPT / PYTHON
 
-- 🔭 I’m currently working on this page. 
+🔭 I’m currently working on Spotify Build from Scratch
+🌱 I’m currently learning ReactJS, Python, Java
+👯 I’m looking to collaborate on Artificial Intelligence
+💬 Ask me about Python
+
+
 
 
 
